@@ -20,7 +20,7 @@ If the sum of the two priorities is 10 or above the video player will instantly 
 And all sources will be ordered like:
 
 1. Video source A 720p (Priority **10**, instantly skips loading)
-2. Videos source A 1080p (Priority **9**)
+2. Videos source A 1080p (Priority **7**)
 3. Videos source B 720p (Priority **7**)
 4. Videos source B 1080p (Priority **4**)
 
